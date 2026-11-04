@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:37:11+00:00",
+ "updated": "2026-11-04T12:31:40+00:00",
  "city": "Gent",
  "excluded": [
   "Kinepolis"
@@ -6824,8 +6824,38 @@
    "v": "sphinx",
    "d": "2026-11-04",
    "t": "11:00",
+   "title": "Digger",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "11:00",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "11:00",
    "title": "Papaya",
    "note": "FilemKING",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "11:00",
+   "title": "Tegenwoordig heet iedereen Sorry",
+   "note": "Film voor kinderen en jongeren",
    "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
@@ -6836,6 +6866,16 @@
    "t": "14:00",
    "title": "Horse on a Stick",
    "note": "FilemKING",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "14:15",
+   "title": "Moulin",
+   "note": "",
    "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
@@ -6911,6 +6951,16 @@
    "city": "Gent"
   },
   {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "14:30",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "skoop",
    "d": "2026-11-04",
    "t": "17:00",
@@ -6924,9 +6974,29 @@
    "v": "skoop",
    "d": "2026-11-04",
    "t": "17:00",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-04",
+   "t": "17:00",
    "title": "Wild Horse Nine",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "17:00",
+   "title": "Hope",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -6944,19 +7014,49 @@
    "v": "skoop",
    "d": "2026-11-04",
    "t": "17:15",
-   "title": "The Return (2003)",
+   "title": "Wicker",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
    "city": "Gent"
   },
   {
-   "v": "skoop",
+   "v": "sphinx",
    "d": "2026-11-04",
-   "t": "17:15",
-   "title": "Wicker",
+   "t": "17:30",
+   "title": "Coward",
    "note": "",
-   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "17:30",
+   "title": "Coyote vs. Acme",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "17:30",
+   "title": "Iron Boy NV",
+   "note": "Film voor kinderen en jongeren",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "17:30",
+   "title": "The Invite",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -6998,7 +7098,7 @@
    "d": "2026-11-04",
    "t": "19:30",
    "title": "Gover Meit",
-   "note": "Larie, sold out",
+   "note": "Larie",
    "url": "https://www.viernulvier.gent/nl/agenda/gover-meit-sky4",
    "k": "theatre",
    "city": "Gent",
@@ -7077,12 +7177,62 @@
    "place": "De Bijloke Muziekcentrum"
   },
   {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "20:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "20:15",
+   "title": "Sense and Sensibility",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "kask",
    "d": "2026-11-04",
    "t": "20:30",
    "title": "Kinoclub #53: Erik of het klein insectenboek (2004)",
    "note": "",
    "url": "https://kaskcinema.be/film/kinoclub-53-erik-of-het-klein-insectenboek/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "20:30",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "20:30",
+   "title": "Digger",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-04",
+   "t": "20:30",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -7110,6 +7260,16 @@
    "v": "skoop",
    "d": "2026-11-04",
    "t": "22:15",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-04",
+   "t": "22:15",
    "title": "Ken Russell's The Devils (1971)",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
@@ -7121,16 +7281,6 @@
    "d": "2026-11-04",
    "t": "22:15",
    "title": "The Texas Chain Saw Massacre (1974)",
-   "note": "",
-   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
-   "k": "film",
-   "city": "Gent"
-  },
-  {
-   "v": "skoop",
-   "d": "2026-11-04",
-   "t": "22:15",
-   "title": "Wild Horse Nine",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -7216,6 +7366,16 @@
    "v": "skoop",
    "d": "2026-11-05",
    "t": "11:00",
+   "title": "Iron Boy (Le Corset)",
+   "note": "familiefilm",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-05",
+   "t": "11:00",
    "title": "Shaun Het Schaap: Het Beest van de Boerderij",
    "note": "familiefilm",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
@@ -7233,12 +7393,12 @@
    "city": "Gent"
   },
   {
-   "v": "skoop",
+   "v": "sphinx",
    "d": "2026-11-05",
    "t": "11:00",
-   "title": "Yugly",
-   "note": "familiefilm",
-   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "title": "Coyote vs. Acme",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -7255,10 +7415,40 @@
   {
    "v": "sphinx",
    "d": "2026-11-05",
+   "t": "11:00",
+   "title": "The Invite",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-05",
+   "t": "11:00",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-05",
    "t": "14:00",
    "title": "Coward",
    "note": "",
    "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-05",
+   "t": "14:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
    "city": "Gent"
   },
@@ -7306,16 +7496,6 @@
    "v": "skoop",
    "d": "2026-11-05",
    "t": "14:30",
-   "title": "Tegenwoordig heet iedereen Sorry",
-   "note": "familiefilm",
-   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
-   "k": "film",
-   "city": "Gent"
-  },
-  {
-   "v": "skoop",
-   "d": "2026-11-05",
-   "t": "14:30",
    "title": "Wild Horse Nine",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
@@ -7345,8 +7525,8 @@
   {
    "v": "skoop",
    "d": "2026-11-05",
-   "t": "16:30",
-   "title": "Hope",
+   "t": "16:45",
+   "title": "Digger",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -7355,8 +7535,8 @@
   {
    "v": "skoop",
    "d": "2026-11-05",
-   "t": "16:45",
-   "title": "Digger",
+   "t": "17:00",
+   "title": "Coward",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -7389,6 +7569,56 @@
    "title": "Wicker",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-05",
+   "t": "17:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-05",
+   "t": "17:15",
+   "title": "Moulin",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-05",
+   "t": "17:15",
+   "title": "Sense and Sensibility",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-05",
+   "t": "17:30",
+   "title": "Tegenwoordig heet iedereen Sorry",
+   "note": "Film voor kinderen en jongeren",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-05",
+   "t": "17:30",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -7433,7 +7663,7 @@
    "d": "2026-11-05",
    "t": "19:30",
    "title": "Benjamin Verdonck / Theater Artemis & Wiener Festwochen",
-   "note": "All before death is life, sold out",
+   "note": "All before death is life",
    "url": "https://www.viernulvier.gent/nl/agenda/benjamin-verdonck-theater-artemis-wiener-festwochen-th81",
    "k": "theatre",
    "city": "Gent",
@@ -7515,7 +7745,7 @@
    "d": "2026-11-05",
    "t": "20:00",
    "title": "Boekpresentatie: Annie Ernaux - 'Het werkelijke leven'",
-   "note": "met Annelies Verbeke, Kristien De Proost, Rokus Hofstede, Rudi Laermans en Steffie Vanneste",
+   "note": "met Annelies Verbeke, Kristien De Proost, Rokus Hofstede, Rudi Laermans en Steffie Vanneste, sold out",
    "url": "https://www.viernulvier.gent/nl/agenda/boekpresentatie-annie-ernaux-het-werkelijke-leven-jm6b",
    "k": "talk",
    "city": "Gent",
@@ -7533,12 +7763,52 @@
    "place": "NTGent schouwburg · Sint-Baafsplein 17"
   },
   {
+   "v": "sphinx",
+   "d": "2026-11-05",
+   "t": "20:15",
+   "title": "Hope",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-05",
+   "t": "20:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "kask",
    "d": "2026-11-05",
    "t": "20:30",
    "title": "The Moment (2026)",
    "note": "",
    "url": "https://kaskcinema.be/film/the-moment/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-05",
+   "t": "20:30",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-05",
+   "t": "20:30",
+   "title": "Marie Antoinette (2006)",
+   "note": "Classics",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -7638,16 +7908,6 @@
    "v": "skoop",
    "d": "2026-11-06",
    "t": "11:00",
-   "title": "Iron Boy (Le Corset)",
-   "note": "familiefilm",
-   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
-   "k": "film",
-   "city": "Gent"
-  },
-  {
-   "v": "skoop",
-   "d": "2026-11-06",
-   "t": "11:00",
    "title": "Mumbo",
    "note": "familiefilm",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
@@ -7678,6 +7938,16 @@
    "v": "skoop",
    "d": "2026-11-06",
    "t": "11:00",
+   "title": "Tegenwoordig heet iedereen Sorry",
+   "note": "familiefilm",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-06",
+   "t": "11:00",
    "title": "Wild Horse Nine",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
@@ -7688,7 +7958,37 @@
    "v": "sphinx",
    "d": "2026-11-06",
    "t": "11:00",
-   "title": "Iron Boy NV",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "11:00",
+   "title": "Marie Antoinette (2006)",
+   "note": "Classics",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "11:00",
+   "title": "Tegenwoordig heet iedereen Sorry",
+   "note": "Film voor kinderen en jongeren",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "11:00",
+   "title": "Yugly NV",
    "note": "Film voor kinderen en jongeren",
    "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
@@ -7758,9 +8058,49 @@
    "v": "sphinx",
    "d": "2026-11-06",
    "t": "14:30",
-   "title": "Shaun het Schaap: het beest van de boerderij",
-   "note": "Film voor kinderen en jongeren",
+   "title": "Coward",
+   "note": "",
    "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "14:30",
+   "title": "Coyote vs. Acme",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "14:30",
+   "title": "Mumbo",
+   "note": "De kijkdoos",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "14:30",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-06",
+   "t": "17:15",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
    "city": "Gent"
   },
@@ -7785,6 +8125,16 @@
    "city": "Gent"
   },
   {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "17:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "skoop",
    "d": "2026-11-06",
    "t": "17:30",
@@ -7805,12 +8155,42 @@
    "city": "Gent"
   },
   {
-   "v": "skoop",
+   "v": "sphinx",
    "d": "2026-11-06",
    "t": "17:30",
-   "title": "The Six",
+   "title": "Coward",
    "note": "",
-   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "17:30",
+   "title": "Digger",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "17:30",
+   "title": "NAZA",
+   "note": "Doc",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "17:30",
+   "title": "Shaun het Schaap: het beest van de boerderij",
+   "note": "Film voor kinderen en jongeren",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -8001,8 +8381,48 @@
   {
    "v": "sphinx",
    "d": "2026-11-06",
+   "t": "20:15",
+   "title": "Moulin",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
    "t": "20:30",
    "title": "Erupcja",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "20:30",
+   "title": "The Invite",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "20:30",
+   "title": "Wicker",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-06",
+   "t": "20:30",
+   "title": "Wild Horse Nine",
    "note": "",
    "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
@@ -8041,8 +8461,8 @@
   {
    "v": "skoop",
    "d": "2026-11-06",
-   "t": "22:20",
-   "title": "The Texas Chain Saw Massacre (1974)",
+   "t": "22:30",
+   "title": "Digger",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -8051,8 +8471,8 @@
   {
    "v": "skoop",
    "d": "2026-11-06",
-   "t": "22:25",
-   "title": "Digger",
+   "t": "22:30",
+   "title": "The Texas Chain Saw Massacre (1974)",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -8138,8 +8558,38 @@
    "v": "sphinx",
    "d": "2026-11-07",
    "t": "11:00",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "11:00",
+   "title": "Coyote vs. Acme",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "11:00",
    "title": "Monster Mia",
    "note": "Film voor kinderen en jongeren",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "11:00",
+   "title": "Sense and Sensibility",
+   "note": "",
    "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
@@ -8158,9 +8608,29 @@
    "v": "skoop",
    "d": "2026-11-07",
    "t": "14:15",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-07",
+   "t": "14:15",
    "title": "Sense and Sensibility",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "14:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -8188,17 +8658,7 @@
    "v": "skoop",
    "d": "2026-11-07",
    "t": "14:30",
-   "title": "The Only Living Pickpocket in New York",
-   "note": "",
-   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
-   "k": "film",
-   "city": "Gent"
-  },
-  {
-   "v": "skoop",
-   "d": "2026-11-07",
-   "t": "14:30",
-   "title": "Wild Horse Nine",
+   "title": "Wicker",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -8225,10 +8685,30 @@
    "city": "Gent"
   },
   {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "14:30",
+   "title": "NAZA",
+   "note": "Doc",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "14:30",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "skoop",
    "d": "2026-11-07",
-   "t": "16:30",
-   "title": "The Odyssey -",
+   "t": "17:00",
+   "title": "Coward",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -8238,7 +8718,7 @@
    "v": "skoop",
    "d": "2026-11-07",
    "t": "17:00",
-   "title": "Coward",
+   "title": "La Gradiva",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -8271,6 +8751,56 @@
    "title": "Wild Horse Nine",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "17:15",
+   "title": "Moulin",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "17:30",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "17:30",
+   "title": "The Invite",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "17:30",
+   "title": "The Six",
+   "note": "Doc",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "17:30",
+   "title": "Wicker",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -8319,7 +8849,7 @@
    "v": "skoop",
    "d": "2026-11-07",
    "t": "19:45",
-   "title": "Wicker",
+   "title": "The Only Living Pickpocket in New York",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -8415,6 +8945,56 @@
    "place": "NTGent schouwburg · Sint-Baafsplein 17"
   },
   {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "20:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "20:15",
+   "title": "Sense and Sensibility",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "20:30",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "20:30",
+   "title": "Digger",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-07",
+   "t": "20:30",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "skoop",
    "d": "2026-11-07",
    "t": "22:00",
@@ -8480,7 +9060,7 @@
    "d": "2026-11-07",
    "t": "23:00",
    "title": "Mo' Juice X Curfew",
-   "note": "Kamma b2b Masalo (NL), Forbidden Fruit (live), Mo Disko b2b Nico Juice, sold out",
+   "note": "Kamma & Masalo (NL), Forbidden Fruit (live), Mo Disko & Nico Juice, sold out",
    "url": "https://www.viernulvier.gent/nl/agenda/mo-juice-x-curfew-yxpk",
    "k": "music",
    "city": "Gent",
@@ -8560,6 +9140,26 @@
    "v": "sphinx",
    "d": "2026-11-08",
    "t": "11:00",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "11:00",
+   "title": "NAZA",
+   "note": "Doc",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "11:00",
    "title": "Yugly NV",
    "note": "Film voor kinderen en jongeren",
    "url": "https://www.sphinx-cinema.be/programma",
@@ -8620,6 +9220,26 @@
    "v": "sphinx",
    "d": "2026-11-08",
    "t": "14:30",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "14:30",
+   "title": "Digger",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "14:30",
    "title": "Monster Mia",
    "note": "Film voor kinderen en jongeren",
    "url": "https://www.sphinx-cinema.be/programma",
@@ -8632,6 +9252,16 @@
    "t": "14:30",
    "title": "Shaun het Schaap: het beest van de boerderij",
    "note": "Film voor kinderen en jongeren",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "14:30",
+   "title": "Wicker",
+   "note": "",
    "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
@@ -8732,6 +9362,16 @@
    "city": "Gent"
   },
   {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "17:00",
+   "title": "Hope",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "skoop",
    "d": "2026-11-08",
    "t": "17:15",
@@ -8748,6 +9388,46 @@
    "title": "Wild Horse Nine",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "17:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "17:15",
+   "title": "Sense and Sensibility",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "17:30",
+   "title": "Marie Antoinette (2006)",
+   "note": "Classics",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "17:30",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -8809,6 +9489,56 @@
    "title": "Wild Horse Nine",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "20:15",
+   "title": "Moulin",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "20:30",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "20:30",
+   "title": "NAZA",
+   "note": "Doc",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "20:30",
+   "title": "The Invite",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-08",
+   "t": "20:30",
+   "title": "The Six",
+   "note": "Doc",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -8875,6 +9605,36 @@
    "city": "Gent"
   },
   {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "14:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "14:15",
+   "title": "Moulin",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "14:15",
+   "title": "Sense and Sensibility",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "skoop",
    "d": "2026-11-09",
    "t": "14:30",
@@ -8888,7 +9648,7 @@
    "v": "skoop",
    "d": "2026-11-09",
    "t": "14:30",
-   "title": "The Only Living Pickpocket in New York",
+   "title": "The Invite",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -8911,6 +9671,26 @@
    "title": "Wild Horse Nine",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "14:30",
+   "title": "The Six",
+   "note": "Doc",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "14:30",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -8961,6 +9741,56 @@
    "title": "The Texas Chain Saw Massacre (1974)",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "17:30",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "17:30",
+   "title": "Digger",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "17:30",
+   "title": "NAZA",
+   "note": "Doc",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "17:30",
+   "title": "The Invite",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "17:30",
+   "title": "The Last One for the Road (Andiamo a bere l'ultima)",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -9020,9 +9850,29 @@
    "v": "skoop",
    "d": "2026-11-09",
    "t": "20:15",
-   "title": "The Invite",
+   "title": "The Only Living Pickpocket in New York",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "20:15",
+   "title": "Hope",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "20:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -9033,6 +9883,36 @@
    "title": "dodeNberg (2025)",
    "note": "",
    "url": "https://kaskcinema.be/film/dodenberg/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "20:30",
+   "title": "Marie Antoinette (2006)",
+   "note": "Classics",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "20:30",
+   "title": "Wicker",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-09",
+   "t": "20:30",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -9057,6 +9937,16 @@
    "k": "theatre",
    "city": "Gent",
    "place": "Arsenaalsite"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-10",
+   "t": "14:15",
+   "title": "La Gradiva",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
   },
   {
    "v": "skoop",
@@ -9089,10 +9979,60 @@
    "city": "Gent"
   },
   {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "14:30",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "14:30",
+   "title": "NAZA",
+   "note": "Doc",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "14:30",
+   "title": "The Invite",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "14:30",
+   "title": "The Last One for the Road (Andiamo a bere l'ultima)",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "skoop",
    "d": "2026-11-10",
    "t": "17:00",
    "title": "Digger",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-10",
+   "t": "17:15",
+   "title": "Coward",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
@@ -9112,19 +10052,29 @@
    "v": "skoop",
    "d": "2026-11-10",
    "t": "17:15",
-   "title": "The Return (2003)",
+   "title": "Wicker",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
    "k": "film",
    "city": "Gent"
   },
   {
-   "v": "skoop",
+   "v": "sphinx",
    "d": "2026-11-10",
    "t": "17:15",
-   "title": "Wicker",
+   "title": "La Gradiva",
    "note": "",
-   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "17:15",
+   "title": "Moulin",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -9135,6 +10085,36 @@
    "title": "The Only Living Pickpocket in New York",
    "note": "",
    "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "17:30",
+   "title": "The Six",
+   "note": "Doc",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "17:30",
+   "title": "Wicker",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "17:30",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
    "city": "Gent"
   },
@@ -9260,6 +10240,16 @@
    "fmt": "lecture"
   },
   {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "20:15",
+   "title": "Sense and Sensibility",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "kask",
    "d": "2026-11-10",
    "t": "20:30",
@@ -9274,6 +10264,36 @@
    "d": "2026-11-10",
    "t": "20:30",
    "title": "Club Kid",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "20:30",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "20:30",
+   "title": "The Invite",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-11-10",
+   "t": "20:30",
+   "title": "Wild Horse Nine",
    "note": "",
    "url": "https://www.sphinx-cinema.be/programma",
    "k": "film",
@@ -9683,9 +10703,9 @@
    "v": "decentrale",
    "d": "2026-11-12",
    "t": "",
-   "title": "re#encounter",
+   "title": "re#encounter | geannuleerd",
    "note": "",
-   "url": "https://www.decentrale.be/nl/agenda/muziek/reencounter",
+   "url": "https://www.decentrale.be/nl/agenda/muziek/reencounter-geannuleerd",
    "k": "music",
    "city": "Gent"
   },
@@ -11232,6 +12252,56 @@
    "city": "Gent"
   },
   {
+   "v": "skoop",
+   "d": "2026-11-22",
+   "t": "11:00",
+   "title": "Coward",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-22",
+   "t": "11:00",
+   "title": "Heysel 85",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-22",
+   "t": "11:00",
+   "title": "Minotaur",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-22",
+   "t": "11:00",
+   "title": "Shaun Het Schaap: Het Beest van de Boerderij",
+   "note": "familiefilm",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "skoop",
+   "d": "2026-11-22",
+   "t": "11:00",
+   "title": "Wild Horse Nine",
+   "note": "",
+   "url": "https://www.studioskoop.be/agenda-studio-skoop/",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "kask",
    "d": "2026-11-22",
    "t": "13:00",
@@ -11503,11 +12573,21 @@
    "d": "2026-11-25",
    "t": "19:30",
    "title": "DE HOE",
-   "note": "De Sitcom",
+   "note": "De Sitcom, sold out",
    "url": "https://www.viernulvier.gent/nl/agenda/de-hoe-7plz",
    "k": "theatre",
    "city": "Gent",
    "place": "De Vooruit · Theaterzaal"
+  },
+  {
+   "v": "box",
+   "d": "2026-11-25",
+   "t": "20:00",
+   "title": "Surreëel (try-out)",
+   "note": "The Magic Dudes",
+   "url": "https://buy.stripe.com/6oU3cu4Kp2ec4O8cEw8ww0g",
+   "k": "theatre",
+   "city": "Gent"
   },
   {
    "v": "miry",
@@ -12401,6 +13481,16 @@
    "place": "Minnemeers - Gent"
   },
   {
+   "v": "sphinx",
+   "d": "2026-12-02",
+   "t": "20:00",
+   "title": "Les filles d'Olfa (Four Daughters)",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
    "v": "viernulvier",
    "d": "2026-12-02",
    "t": "20:00",
@@ -12426,6 +13516,16 @@
    "v": "sphinx",
    "d": "2026-12-03",
    "t": "09:30",
+   "title": "Le Faux Soir",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-12-03",
+   "t": "14:00",
    "title": "Le Faux Soir",
    "note": "",
    "url": "https://www.sphinx-cinema.be/programma",
@@ -12583,6 +13683,17 @@
    "city": "Gent"
   },
   {
+   "v": "opendoek",
+   "d": "2026-12-04",
+   "t": "00:00",
+   "title": "DOSSIER BERT",
+   "note": "",
+   "url": "https://www.opendoek.be/beleven/kalender/dossier-bert",
+   "k": "theatre",
+   "city": "Gent",
+   "place": "Theater Box"
+  },
+  {
    "v": "viernulvier",
    "d": "2026-12-04",
    "t": "19:30",
@@ -12719,6 +13830,16 @@
    "note": "",
    "url": "https://www.decentrale.be/nl/agenda/te-gast/flamenco-inspiraciOn-by-patricio-grande",
    "k": "music",
+   "city": "Gent"
+  },
+  {
+   "v": "sphinx",
+   "d": "2026-12-06",
+   "t": "10:30",
+   "title": "La bola negra",
+   "note": "",
+   "url": "https://www.sphinx-cinema.be/programma",
+   "k": "film",
    "city": "Gent"
   },
   {
@@ -13112,11 +14233,22 @@
    "city": "Gent"
   },
   {
+   "v": "opendoek",
+   "d": "2026-12-11",
+   "t": "00:00",
+   "title": "DOSSIER BERT",
+   "note": "",
+   "url": "https://www.opendoek.be/beleven/kalender/dossier-bert",
+   "k": "theatre",
+   "city": "Gent",
+   "place": "Theater Box"
+  },
+  {
    "v": "viernulvier",
    "d": "2026-12-11",
    "t": "19:30",
    "title": "Oathbreaker",
-   "note": "support: Portrayal of Guilt, sold out",
+   "note": "Support: YOUFF + Portrayal of Guilt, sold out",
    "url": "https://www.viernulvier.gent/nl/agenda/oathbreaker-7pyh",
    "k": "music",
    "city": "Gent",
@@ -13213,6 +14345,17 @@
    "place": "",
    "city": "Brugge",
    "fmt": "lecture"
+  },
+  {
+   "v": "opendoek",
+   "d": "2026-12-13",
+   "t": "00:00",
+   "title": "DOSSIER BERT",
+   "note": "",
+   "url": "https://www.opendoek.be/beleven/kalender/dossier-bert",
+   "k": "theatre",
+   "city": "Gent",
+   "place": "Theater Box"
   },
   {
    "v": "sphinx",
@@ -13381,17 +14524,6 @@
    "k": "theatre",
    "city": "Gent",
    "place": "Nieuwpoort Foyer"
-  },
-  {
-   "v": "viernulvier",
-   "d": "2026-12-15",
-   "t": "20:30",
-   "title": "Oproer",
-   "note": "",
-   "url": "https://www.viernulvier.gent/nl/agenda/oproer-jmvm",
-   "k": "music",
-   "city": "Gent",
-   "place": "De Vooruit · Concertzaal"
   },
   {
    "v": "decentrale",
@@ -13861,23 +14993,23 @@
    "v": "viernulvier",
    "d": "2027-01-20",
    "t": "20:00",
-   "title": "Hannah Zaouad",
-   "note": "Hoe zeg je “kom terug”?",
-   "url": "https://www.viernulvier.gent/nl/agenda/hannah-zaouad-yxwv",
-   "k": "theatre",
-   "city": "Gent",
-   "place": "De Vooruit · Domzaal"
-  },
-  {
-   "v": "viernulvier",
-   "d": "2027-01-20",
-   "t": "20:00",
    "title": "Not Standing/Alexander Vantournhout",
    "note": "Nimble",
    "url": "https://www.viernulvier.gent/nl/agenda/not-standing-alexander-vantournhout-14j4",
    "k": "dance",
    "city": "Gent",
    "place": "De Vooruit · Theaterzaal"
+  },
+  {
+   "v": "viernulvier",
+   "d": "2027-01-20",
+   "t": "20:00",
+   "title": "Tamza / Monty",
+   "note": "Hoe zeg je “kom terug”?",
+   "url": "https://www.viernulvier.gent/nl/agenda/tamza-monty-yxwv",
+   "k": "theatre",
+   "city": "Gent",
+   "place": "De Vooruit · Domzaal"
   },
   {
    "v": "campo",
@@ -13939,23 +15071,23 @@
    "v": "viernulvier",
    "d": "2027-01-21",
    "t": "20:00",
-   "title": "Hannah Zaouad",
-   "note": "Hoe zeg je “kom terug”?",
-   "url": "https://www.viernulvier.gent/nl/agenda/hannah-zaouad-yxwv",
-   "k": "theatre",
-   "city": "Gent",
-   "place": "De Vooruit · Domzaal"
-  },
-  {
-   "v": "viernulvier",
-   "d": "2027-01-21",
-   "t": "20:00",
    "title": "Not Standing/Alexander Vantournhout",
    "note": "Nimble",
    "url": "https://www.viernulvier.gent/nl/agenda/not-standing-alexander-vantournhout-14j4",
    "k": "dance",
    "city": "Gent",
    "place": "De Vooruit · Theaterzaal"
+  },
+  {
+   "v": "viernulvier",
+   "d": "2027-01-21",
+   "t": "20:00",
+   "title": "Tamza / Monty",
+   "note": "Hoe zeg je “kom terug”?",
+   "url": "https://www.viernulvier.gent/nl/agenda/tamza-monty-yxwv",
+   "k": "theatre",
+   "city": "Gent",
+   "place": "De Vooruit · Domzaal"
   },
   {
    "v": "campo",
@@ -14135,16 +15267,6 @@
    "place": "Minard"
   },
   {
-   "v": "arca",
-   "d": "2027-01-31",
-   "t": "14:00",
-   "title": "KLEIN DRAMA | Huis Man",
-   "note": "",
-   "url": "https://www.arcatheater.be/evenement/klein-drama-huis-man/",
-   "k": "theatre",
-   "city": "Gent"
-  },
-  {
    "v": "kopergietery",
    "d": "2027-01-31",
    "t": "15:00",
@@ -14154,16 +15276,6 @@
    "k": "theatre",
    "city": "Gent",
    "place": "CAMPO Nieuwpoort"
-  },
-  {
-   "v": "arca",
-   "d": "2027-01-31",
-   "t": "16:00",
-   "title": "KLEIN DRAMA | Huis Man",
-   "note": "",
-   "url": "https://www.arcatheater.be/evenement/klein-drama-huis-man-2/",
-   "k": "theatre",
-   "city": "Gent"
   },
   {
    "v": "kopergietery",
@@ -14697,16 +15809,6 @@
    "place": "Kopergietery Het Pand"
   },
   {
-   "v": "arca",
-   "d": "2027-03-01",
-   "t": "20:00",
-   "title": "VICTOR PÃTRÃŞCAN | Stand-up Comedy in Broken English",
-   "note": "",
-   "url": "https://www.arcatheater.be/evenement/victor-patrascan-stand-up-comedy-in-broken-english/",
-   "k": "theatre",
-   "city": "Gent"
-  },
-  {
    "v": "kopergietery",
    "d": "2027-03-02",
    "t": "10:00",
@@ -14727,16 +15829,6 @@
    "k": "theatre",
    "city": "Gent",
    "place": "Kopergietery Het Pand"
-  },
-  {
-   "v": "arca",
-   "d": "2027-03-03",
-   "t": "15:00",
-   "title": "KLEIN DRAMA | Huis Man",
-   "note": "",
-   "url": "https://www.arcatheater.be/evenement/klein-drama-huis-man-3/",
-   "k": "theatre",
-   "city": "Gent"
   },
   {
    "v": "viernulvier",
@@ -14989,16 +16081,6 @@
    "k": "theatre",
    "city": "Gent",
    "place": "NTGent Schouwburg"
-  },
-  {
-   "v": "arca",
-   "d": "2027-03-13",
-   "t": "20:00",
-   "title": "DANSYARTE | Even Weg",
-   "note": "",
-   "url": "https://www.arcatheater.be/evenement/dansyarte-even-weg/",
-   "k": "theatre",
-   "city": "Gent"
   },
   {
    "v": "ntgent",
@@ -15358,7 +16440,7 @@
    "d": "2027-04-07",
    "t": "19:30",
    "title": "Jeroen Baert",
-   "note": "Bedankt voor uw data: over artificiële (on)intelligentie",
+   "note": "Bedankt voor uw data: over artificiële (on)intelligentie, sold out",
    "url": "https://www.viernulvier.gent/nl/agenda/jeroen-baert-th3h",
    "k": "theatre",
    "city": "Gent",
@@ -15826,16 +16908,6 @@
    "k": "talk",
    "city": "Gent",
    "place": "De Vooruit · Theaterzaal"
-  },
-  {
-   "v": "arca",
-   "d": "2027-05-26",
-   "t": "15:00",
-   "title": "KLEIN DRAMA | Huis Man",
-   "note": "",
-   "url": "https://www.arcatheater.be/evenement/klein-drama-huis-man-4/",
-   "k": "theatre",
-   "city": "Gent"
   },
   {
    "v": "viernulvier",
